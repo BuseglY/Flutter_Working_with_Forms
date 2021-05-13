@@ -2,12 +2,12 @@
 
 A new Flutter project.
 
-# Form alt yapısının kurulması,
-# Form yapısının yazılması,
-# InputType ve obscure text ile çalışmak,
-# GlobalKey ile çalışmak,
-# ValidationMixin ile çalışmak,
-# Save operasyonuyla çalışmak,
+## Form alt yapısının kurulması,
+## Form yapısının yazılması,
+## InputType ve obscure text ile çalışmak,
+## GlobalKey ile çalışmak,
+## ValidationMixin ile çalışmak,
+## Save operasyonuyla çalışmak,
 
 ## Getting Started
 
